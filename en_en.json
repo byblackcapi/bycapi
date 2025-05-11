@@ -380,7 +380,7 @@
     "MISSING_RIGHT_OR_ALREADY_PROMOTED" : "⚠️ Bu kullanıcıyı terfi ettirecek yeterli iznim yok, belki başka bir yönetici tarafından zaten terfi ettirilmiştir",
     "CANT_SELF_PROMOTE" : "⚠️ Kendimi terfi ettiremem",
     "CANT_DELETE" : "⚠️ Mesajları silemem",
-    "CANT_PIN" : "⚠️ Mesajları sabitleyemem"
+    "CANT_PIN" : "⚠️ Mesajları sabitleyemem",
     "CANT_BAN" : "⚠️ Banlayamam",
     "CANT_PROMOTE" : "⚠️ Yönetici terfi ettiremem",
     "CANT_INVITE" : "⚠️ Üye davet edemem",
