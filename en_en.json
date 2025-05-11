@@ -18,7 +18,7 @@
     "SUPPORT_BUTTON" : "🔧 Destek",
     "SUPPORT_ABOUT_BUTTON" : "🔧 Bot hakkında destek",
     "INFO_BUTTON" : "Bilgiler💬",
-    "INFO" : "<b>Libre Group Help</b>, Nodejs üzerinde çalışan ve gruplarınızı yönetmek için güvenilir bir bot sunmayı amaçlayan, <b>Açık Kaynaklı</b> bir projedir ve kullanıcılarının <b>gizliliğine saygılıdır</b>\n\n<b>Bot sürümü:</b> <i>{LGHVersion}</i>\n\n<b>Bot ekibi</b>\n•@Sp3rick_hj, geliştirici ve projenin yaratıcısı",
+    "INFO" : "<b>Capi Group Help</b>, Nodejs üzerinde çalışan ve gruplarınızı yönetmek için güvenilir bir bot sunmayı amaçlayan, <b>Açık Kaynaklı</b> bir projedir ve kullanıcılarının <b>gizliliğine saygılıdır</b>\n\n<b>Bot sürümü:</b> <i>{LGHVersion}</i>\n\n<b>Bot ekibi</b>\n•@capiyedek, geliştirici ve projenin yaratıcısı",
     "COMMANDS_BUTTON" :  "📖 Bot komutları",
     "BACK_BUTTON" : "🔙 Geri",
     "BACK2_BUTTON" : "◀️ Geri",
